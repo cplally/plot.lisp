@@ -1,0 +1,9 @@
+About plot.lisp
+===============
+
+This is a little program I wrote for fun, to become familiar with
+SBCL's facilities for process management, and also for use in a personal
+project. An example of the use of plot.lisp is included as example.lisp.
+
+Please note that plot.lisp requires SBCL, Linux, and Gnuplot (which should be
+installed in /usr/bin/gnuplot).
